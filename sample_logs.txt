@@ -1,0 +1,8 @@
+SUCCESS: User admin logged in
+FAILED: User john failed login
+FAILED: User john failed login
+SUCCESS: User mike logged in
+FAILED: User alex failed login
+FAILED: User john failed login
+SUCCESS: User david logged in
+FAILED: User alex failed login

@@ -1,0 +1,24 @@
+Project: Python Log Analyzer
+
+Objective:
+Build a Python script that analyzes authentication logs and detects suspicious login failures.
+
+Tools Used:
+- Python
+- Custom log file
+
+Capabilities:
+- Reads log entries
+- Detects failed logins
+- Counts failed attempts
+- Identifies affected users
+- Triggers alert for repeated failures
+
+Findings:
+The script successfully detected multiple failed login attempts and identified users with repeated failures.
+
+Future Improvements:
+- Real log ingestion
+- IP tracking
+- Export reports
+- Email alerts
