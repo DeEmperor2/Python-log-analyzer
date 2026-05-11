@@ -1,0 +1,7 @@
+Built this project after working with Splunk authentication logs.
+
+I wanted to understand how detection logic works behind SIEM tools.
+
+The script reads logs, identifies failed login attempts, counts them, and flags suspicious behavior.
+
+This project helped me connect SOC analysis with Python automation.
